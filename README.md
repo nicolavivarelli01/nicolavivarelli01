@@ -1,9 +1,9 @@
 <img src="./assets/header.svg" width="100%" alt="Welcome. I'm Nick. Machine learning, NLP, and applied AI, from research to production systems." />
 
 <p align="center">
-  <a href="https://www.nickvivarelli.com"><img src="https://img.shields.io/badge/Portfolio-nickvivarelli.com-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/nicolavivarelli"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://doi.org/10.1007/s10151-025-03165-9"><img src="https://img.shields.io/badge/Research-Published-22C55E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Published research" /></a>
+  <a href="https://www.nickvivarelli.com"><img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nicolavivarelli"><img src="./assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
+  <a href="https://doi.org/10.1007/s10151-025-03165-9"><img src="./assets/btn-research.svg" height="46" alt="Published research" /></a>
 </p>
 
 I'm a machine learning engineer and software builder in Chicago, pursuing an M.S. in Computer Science at UIC after an M.S. in Computer Engineering at Politecnico di Torino.
