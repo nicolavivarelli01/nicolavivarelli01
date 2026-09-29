@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Hi, I'm Nick 🙋🏻‍♂️." />
-</p>
+<img src="./assets/header.svg" width="100%" alt="Welcome. I'm Nick. Machine learning, NLP, and applied AI, from research to production systems." />
 
 <p align="center">
   <a href="https://www.nickvivarelli.com"><img src="https://img.shields.io/badge/Portfolio-nickvivarelli.com-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
