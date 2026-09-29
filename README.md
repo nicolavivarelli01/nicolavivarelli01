@@ -6,7 +6,7 @@
   <a href="https://doi.org/10.1007/s10151-025-03165-9"><img src="./assets/btn-research.svg" height="46" alt="Published research" /></a>
 </p>
 
-I'm a machine learning engineer and software builder in Chicago, pursuing an M.S. in Computer Science at UIC after an M.S. in Computer Engineering at Politecnico di Torino.
+I'm a Machine Learning Engineer and software builder in Chicago, pursuing an M.S. in Computer Science at UIC and an M.S. in Computer Engineering at Politecnico di Torino.
 
 I build applied AI systems for language and healthcare, with an emphasis on rigorous evaluation, traceable decisions, and dependable product engineering.
 
