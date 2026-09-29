@@ -12,11 +12,10 @@ I build applied AI systems for language and healthcare, with an emphasis on hone
 
 ## Selected work
 
-- **SignalBrief** — inbox intelligence that ranks what deserves attention each morning, with evaluated ranking baselines and reconstructable PostgreSQL decision lineage. **In development.**
-- **Autism evaluation research** — leakage-controlled healthcare ML across 214 decisions from 72 social workers, paired with evidence-grounded LLaMA explanations. **Active research.**
-- **Early MCI detection** — multimodal speech and language modeling with Wav2Vec2, LLaMA, and parameter-efficient cross-modal fusion. **Ongoing at UIC.**
-- **[Postoperative complication prediction](https://doi.org/10.1007/s10151-025-03165-9)** — published deep-learning work on 2,013 multicenter patient records, reaching **0.86 accuracy** and **0.94 AUC**.
-
+- **[SignalBrief](https://www.nickvivarelli.com/projects/signalbrief)** — inbox intelligence that ranks what deserves attention each morning, with evaluated ranking baselines and reconstructable PostgreSQL decision lineage. **In development.**
+- **[Autism evaluation research](https://www.nickvivarelli.com/projects/autism-reimbursement)** — leakage-controlled healthcare ML across 214 decisions from 72 social workers, paired with evidence-grounded LLaMA explanations. **Active research.**
+- **[Early MCI detection](https://www.nickvivarelli.com/projects/mci)** — multimodal speech and language modeling with Wav2Vec2, LLaMA, and parameter-efficient cross-modal fusion. **Ongoing at UIC.**
+- **[Postoperative complication prediction](https://www.nickvivarelli.com/#project-clinical-ml)** — published deep-learning work ([paper](https://doi.org/10.1007/s10151-025-03165-9)) on 2,013 multicenter patient records, reaching **0.86 accuracy** and **0.94 AUC**.
 <img src="./assets/approach.svg" width="100%" alt="Messy data → explicit assumptions → honest evaluation → useful systems" />
 
 **Stack:** Python · PyTorch · TensorFlow · scikit-learn · PostgreSQL · SQLAlchemy · Pydantic · Docker
