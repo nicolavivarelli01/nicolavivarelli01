@@ -17,9 +17,7 @@ I build applied AI systems for language and healthcare, with an emphasis on hone
 - **Early MCI detection** — multimodal speech and language modeling with Wav2Vec2, LLaMA, and parameter-efficient cross-modal fusion. **Ongoing at UIC.**
 - **[Postoperative complication prediction](https://doi.org/10.1007/s10151-025-03165-9)** — published deep-learning work on 2,013 multicenter patient records, reaching **0.86 accuracy** and **0.94 AUC**.
 
-```text
-messy data -> explicit assumptions -> honest evaluation -> useful systems
-```
+<img src="./assets/approach.svg" width="100%" alt="Messy data → explicit assumptions → honest evaluation → useful systems" />
 
 **Stack:** Python · PyTorch · TensorFlow · scikit-learn · PostgreSQL · SQLAlchemy · Pydantic · Docker
 
