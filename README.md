@@ -8,7 +8,7 @@ Machine learning engineer in Chicago working on NLP, healthcare AI, and applied 
 - **Early MCI detection** (ongoing research, UIC): multimodal speech + language model (Wav2Vec2 + LLaMA) with parameter-efficient cross-modal fusion for small clinical datasets.
 - **Postoperative complication prediction** (published): deep-learning pipeline on 2,013 multicenter patient records. 0.86 accuracy, 0.94 AUC.
 
-Most of my work is in private repos (product code and clinical research data). Write-ups are on my site, and I'm happy to walk through code on request.
+Most of my work is in ***private repos*** (product code and clinical research data). Write-ups are on my site, and I'm happy to walk through code on request.
 
 **Stack:** Python · PyTorch · TensorFlow · scikit-learn · PostgreSQL · SQLAlchemy · Pydantic · Docker
 
