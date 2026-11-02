@@ -8,7 +8,7 @@
 
 I'm a Machine Learning Engineer and software builder in Chicago, pursuing an M.S. in Computer Science at UIC and an M.S. in Computer Engineering at Politecnico di Torino.
 
-I build applied AI systems for language and healthcare, with an emphasis on rigorous evaluation, traceable decisions, and dependable product engineering.
+I work from ML research to production: clinical speech models, data pipelines, LLM agents, and the infrastructure that serves them, with an emphasis on rigorous evaluation and dependable engineering.
 
 <img src="./assets/approach.svg" width="100%" alt="Messy data → explicit assumptions → honest evaluation → useful systems" />
 
