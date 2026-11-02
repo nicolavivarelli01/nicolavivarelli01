@@ -14,11 +14,14 @@ I build applied AI systems for language and healthcare, with an emphasis on rigo
 
 ## Selected work
 
+- **[DivvyAI](https://www.nickvivarelli.com/projects/divvyai)** — a live Google Cloud pipeline that records Chicago's Divvy bike-share feeds every 15 minutes, models them with dbt in BigQuery, and serves a hosted AI agent over a read-only MCP server. Scored **95%** on a SQL-verified benchmark and **98%** on a prompt-injection evaluation. **[Live](https://divvyai.bike) · [Code](https://github.com/nicolavivarelli01/DivvyAI-Public)**
+- **[Alzheimer's detection from speech](https://www.nickvivarelli.com/projects/mci)** — Wav2Vec2 and Llama 3.2 with LoRA, studying whether pretraining on one clinical speech dataset transfers to another. **85.0% accuracy** and **0.954 AUROC** on the PROCESS-2 test set (healthy vs. impaired); LoRA beat the frozen model in 12 of 12 paired runs on ADReSS. **Ongoing at UIC.**
 - **[SignalBrief](https://www.nickvivarelli.com/projects/signalbrief)** — inbox intelligence that ranks what deserves attention each morning, with evaluated ranking baselines and reconstructable PostgreSQL decision lineage. **In development.**
 - **[Autism evaluation research](https://www.nickvivarelli.com/projects/autism-reimbursement)** — leakage-controlled healthcare ML across 214 decisions from 72 social workers, paired with evidence-grounded LLaMA explanations. **Active research.**
-- **[Early MCI detection](https://www.nickvivarelli.com/projects/mci)** — multimodal speech and language modeling with Wav2Vec2, LLaMA, and parameter-efficient cross-modal fusion. **Ongoing at UIC.**
 - **[Postoperative complication prediction](https://www.nickvivarelli.com/#project-clinical-ml)** — published deep-learning work ([paper](https://doi.org/10.1007/s10151-025-03165-9)) on 2,013 multicenter patient records, reaching **0.86 accuracy** and **0.94 AUC**.
 
-**Stack:** Python · PyTorch · TensorFlow · scikit-learn · PostgreSQL · SQLAlchemy · Pydantic · Docker
+**Now building:** LoRAplex, a multi-tenant LoRA serving platform on AWS EKS with vLLM, measuring when adapter-aware routing beats round-robin on latency and cost.
 
-Most of my product code and clinical research lives in private repositories. I share the architecture, evaluation, and design decisions through case studies on [my site](https://www.nickvivarelli.com).
+**Stack:** Python · PyTorch · Hugging Face Transformers · TensorFlow · scikit-learn · Google Cloud (Cloud Run, BigQuery) · dbt · PostgreSQL · Docker · Terraform
+
+DivvyAI's code is [public](https://github.com/nicolavivarelli01/DivvyAI-Public). My clinical research stays private under data-use agreements; I share its architecture, evaluation, and design decisions through case studies on [my site](https://www.nickvivarelli.com).
