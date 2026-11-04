@@ -22,6 +22,6 @@ I work from ML research to production: clinical speech models, data pipelines, L
 
 **Now building:** LoRAplex, a multi-tenant LoRA serving platform on AWS EKS with vLLM, measuring when adapter-aware routing beats round-robin on latency and cost.
 
-**Stack:** Python · PyTorch · Hugging Face Transformers · TensorFlow · scikit-learn · Google Cloud (Cloud Run, BigQuery) · dbt · PostgreSQL · Docker · Terraform
+**Stack:** Python · PyTorch · Hugging Face Transformers · TensorFlow · scikit-learn · Google Cloud (Cloud Run, BigQuery) · dbt · PostgreSQL · Docker · Terraform · AWS (IAM, S3, EKS)
 
 DivvyAI's code is [public](https://github.com/nicolavivarelli01/DivvyAI-Public). My clinical research stays private under data-use agreements; I share its architecture, evaluation, and design decisions through case studies on [my site](https://www.nickvivarelli.com).
