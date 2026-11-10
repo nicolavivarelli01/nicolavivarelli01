@@ -20,7 +20,7 @@ I work from ML research to production: clinical speech models, data pipelines, L
 - **[Autism evaluation research](https://www.nickvivarelli.com/projects/autism-reimbursement)** — leakage-controlled healthcare ML across 214 decisions from 72 social workers, paired with evidence-grounded LLaMA explanations. **Active research.**
 - **[Postoperative complication prediction](https://www.nickvivarelli.com/#project-clinical-ml)** — published deep-learning work ([paper](https://doi.org/10.1007/s10151-025-03165-9)) on 2,013 multicenter patient records, reaching **0.86 accuracy** and **0.94 AUC**.
 
-**Now building:** LoRAplex, a multi-tenant LoRA serving platform on AWS EKS with vLLM, measuring when adapter-aware routing beats round-robin on latency and cost.
+**Now building:** [LoRAplex](https://loraplex.com), a multi-tenant LoRA serving platform on AWS EKS with vLLM, measuring when adapter-aware routing beats round-robin on latency and cost.
 
 **Stack:** Python · PyTorch · Hugging Face Transformers · TensorFlow · scikit-learn · Google Cloud (Cloud Run, BigQuery) · dbt · PostgreSQL · Docker · Terraform · AWS (IAM, S3, EKS)
 
